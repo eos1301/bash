@@ -1,5 +1,5 @@
 # bash
-<div>Задание 1<div>
+<div><b>Задание 1</b><div>
 <div>Ваша задача:<div>
 <div>Открыть домашнюю директорию<div>
 <div>пределить имя папки, в которой вы находитесь<div>
@@ -21,7 +21,7 @@
 <div>Просмотрите содержимое двух файлов (1 и 3) сразу<div>
 <div>Используя один из редакторов замените все строки в файле 1<div>
   
-<div>Задание 2<div>
+<div> <b>Задание 2</b><div>
 <div>Ваша задача:<div>
 <div>Зайти в домашнюю директорию<div>
 <div>Создать папку test 3<div>
@@ -40,5 +40,5 @@
 <div>Отправьте 5 пакетов на сайт artsiomrusau.com<div>
 <div>Используя GET и команду curl, получите информацию о зарегистрированных питомцах на https://petstore.swagger.io/<div>
 <div>Используя POST и команду curl, создайте нового пользователя на https://petstore.swagger.io/<div>
-<div>Ссылка на решение:<div>
+<div> <b>Ссылка на решение:</b><div>
 <div>https://drive.google.com/drive/folders/1onX084QdFydXZ4zbR1aKey0AVWke8hsT?usp=sharing<div>
